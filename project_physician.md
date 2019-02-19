@@ -4,7 +4,7 @@
 library(readr)
 library(lme4)
 ## load the aggregated data 
-dataf <- read_delim("C:/Users/Samarprit/Desktop/mount sinai health partners assignment/aggregated.csv", 
+dataf <- read_delim("C:/User/aggregated.csv", 
     "\t", escape_double = FALSE, trim_ws = TRUE)
 ```
 
